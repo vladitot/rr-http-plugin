@@ -69,4 +69,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/roadrunner-server/pool => github.com/vladitot/rr-pool v1.0.3
+replace github.com/roadrunner-server/pool v1.0.0 => github.com/vladitot/rr-pool v1.0.4
