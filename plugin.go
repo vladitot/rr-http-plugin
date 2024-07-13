@@ -7,8 +7,8 @@ import (
 	"sync"
 
 	"github.com/roadrunner-server/endure/v2/dep"
-	"github.com/roadrunner-server/http/v5/common"
 	"github.com/roadrunner-server/http/v5/servers"
+	"github.com/vladitot/rr-http-plugin/v5/common"
 
 	rrcontext "github.com/roadrunner-server/context"
 	"github.com/roadrunner-server/errors"

@@ -24,8 +24,6 @@ type Pool interface {
 	Reset(ctx context.Context) error
 	// Destroy all underlying stacks (but let them complete the task).
 	Destroy(ctx context.Context)
-	// Release worker by PID. Could be usefull for async php
-	Release(pid int64) error
 }
 
 // Server creates workers for the application.
