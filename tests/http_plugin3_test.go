@@ -30,11 +30,11 @@ import (
 	httpPlugin "github.com/roadrunner-server/http/v5"
 	"github.com/roadrunner-server/informer/v5"
 	"github.com/roadrunner-server/logger/v5"
-	"github.com/roadrunner-server/pool/state/process"
 	rpcPlugin "github.com/roadrunner-server/rpc/v5"
 	"github.com/roadrunner-server/server/v5"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vladitot/rr-pool/state/process"
 )
 
 func TestDebugModeResponse(t *testing.T) {

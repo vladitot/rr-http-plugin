@@ -4,8 +4,8 @@ import (
 	"strconv"
 
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/roadrunner-server/pool/fsm"
-	"github.com/roadrunner-server/pool/state/process"
+	"github.com/vladitot/rr-pool/fsm"
+	"github.com/vladitot/rr-pool/state/process"
 )
 
 type Informer interface {

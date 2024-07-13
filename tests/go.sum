@@ -177,8 +177,8 @@ github.com/roadrunner-server/memory/v5 v5.0.0 h1:95r0bMqNcM8p2gQl6Jc/iiyxyFoNGAa
 github.com/roadrunner-server/memory/v5 v5.0.0/go.mod h1:f/QqHDYw55SFaOoyF/W9L+fsg1HPSroqYC0q15NOc9U=
 github.com/roadrunner-server/otel/v5 v5.0.0 h1:GqmZGdqEWB4+vypab31E8D1mIH/6LsdsLyZDNfeqr/Y=
 github.com/roadrunner-server/otel/v5 v5.0.0/go.mod h1:Tyu8TrT8I/kS3E8n5pJR2Z7KaJ9RUAXl6smXs8sxzNY=
-github.com/roadrunner-server/pool v1.0.0 h1:9iA67WLrJGRuigbN8qR6Rrs4OMy/TfkG7gSOS8sl0oU=
-github.com/roadrunner-server/pool v1.0.0/go.mod h1:fLWNBj17Bu/YAN61QoInLr3ieRifpg1qN/4LGJqPsKo=
+github.com/vladitot/rr-pool v1.0.0 h1:9iA67WLrJGRuigbN8qR6Rrs4OMy/TfkG7gSOS8sl0oU=
+github.com/vladitot/rr-pool v1.0.0/go.mod h1:fLWNBj17Bu/YAN61QoInLr3ieRifpg1qN/4LGJqPsKo=
 github.com/roadrunner-server/resetter/v5 v5.0.0 h1:4d++rUAX12RHRYIqejTBQD5WWLoN3P5tR/h0BE/97Rk=
 github.com/roadrunner-server/resetter/v5 v5.0.0/go.mod h1:oPBEyU43Mj0EirXu+OLspihqx8H/x8Xy5xKv63jyu6Q=
 github.com/roadrunner-server/rpc/v5 v5.0.0 h1:10p/PdbIliZbzCV0MvXwICKbCpHnMpHmQuakRa1l1SU=

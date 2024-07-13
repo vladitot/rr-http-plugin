@@ -21,11 +21,11 @@ import (
 	"github.com/goccy/go-json"
 	"github.com/roadrunner-server/http/v5/config"
 	"github.com/roadrunner-server/http/v5/handler"
-	"github.com/roadrunner-server/pool/ipc/pipe"
-	"github.com/roadrunner-server/pool/pool"
-	staticPool "github.com/roadrunner-server/pool/pool/static_pool"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vladitot/rr-pool/ipc/pipe"
+	"github.com/vladitot/rr-pool/pool"
+	staticPool "github.com/vladitot/rr-pool/pool/static_pool"
 )
 
 func TestHandler_Echo(t *testing.T) {

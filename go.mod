@@ -15,9 +15,9 @@ require (
 	github.com/roadrunner-server/errors v1.4.0
 	github.com/roadrunner-server/goridge/v3 v3.8.2
 	github.com/roadrunner-server/http/v5 v5.0.0
-	github.com/roadrunner-server/pool v1.0.0
 	github.com/roadrunner-server/tcplisten v1.5.0
 	github.com/stretchr/testify v1.9.0
+	github.com/vladitot/rr-pool v1.0.5
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.53.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.28.0
 	go.opentelemetry.io/otel v1.28.0
@@ -52,6 +52,7 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/roadrunner-server/events v1.0.0 // indirect
+	github.com/roadrunner-server/pool v1.0.0 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/tklauser/go-sysconf v0.3.14 // indirect
 	github.com/tklauser/numcpus v0.8.0 // indirect
@@ -68,5 +69,3 @@ require (
 	golang.org/x/tools v0.23.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/roadrunner-server/pool v1.0.0 => github.com/vladitot/rr-pool v1.0.4

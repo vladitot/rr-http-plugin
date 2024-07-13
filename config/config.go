@@ -10,7 +10,7 @@ import (
 	"github.com/roadrunner-server/http/v5/servers/https"
 
 	"github.com/roadrunner-server/errors"
-	"github.com/roadrunner-server/pool/pool"
+	"github.com/vladitot/rr-pool/pool"
 )
 
 // Config configures RoadRunner HTTP server.

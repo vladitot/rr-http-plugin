@@ -14,7 +14,7 @@ import (
 	"github.com/roadrunner-server/errors"
 	"github.com/roadrunner-server/http/v5/config"
 	"github.com/roadrunner-server/http/v5/handler"
-	"github.com/roadrunner-server/pool/state/process"
+	"github.com/vladitot/rr-pool/state/process"
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 	jprop "go.opentelemetry.io/contrib/propagators/jaeger"
 	"go.opentelemetry.io/otel/propagation"

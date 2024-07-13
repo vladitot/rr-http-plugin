@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/roadrunner-server/api/v4/plugins/v1/status"
-	"github.com/roadrunner-server/pool/fsm"
+	"github.com/vladitot/rr-pool/fsm"
 )
 
 // Status return status of the particular plugin

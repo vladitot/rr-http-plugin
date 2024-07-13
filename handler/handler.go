@@ -14,7 +14,7 @@ import (
 	"github.com/roadrunner-server/errors"
 	"github.com/roadrunner-server/goridge/v3/pkg/frame"
 	"github.com/roadrunner-server/http/v5/config"
-	"github.com/roadrunner-server/pool/payload"
+	"github.com/vladitot/rr-pool/payload"
 	"go.uber.org/zap"
 )
 

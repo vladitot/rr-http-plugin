@@ -4,10 +4,10 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/roadrunner-server/pool/payload"
-	"github.com/roadrunner-server/pool/pool"
-	staticPool "github.com/roadrunner-server/pool/pool/static_pool"
-	"github.com/roadrunner-server/pool/worker"
+	"github.com/vladitot/rr-pool/payload"
+	"github.com/vladitot/rr-pool/pool"
+	staticPool "github.com/vladitot/rr-pool/pool/static_pool"
+	"github.com/vladitot/rr-pool/worker"
 	"go.uber.org/zap"
 )
 
