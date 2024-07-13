@@ -68,4 +68,4 @@ require (
 	golang.org/x/tools v0.23.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-replace github.com/roadrunner-server/pool => /Users/vladimirtot/GolandProjects/rr-pool
+replace github.com/roadrunner-server/pool => github.com/vladitot/rr-pool v1.0.3
