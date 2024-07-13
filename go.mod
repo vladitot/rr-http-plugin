@@ -1,4 +1,4 @@
-module github.com/roadrunner-server/http/v5
+module github.com/vladitot/rr-http-plugin/v1
 
 go 1.22.5
 
