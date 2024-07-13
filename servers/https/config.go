@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/roadrunner-server/errors"
-	"github.com/roadrunner-server/http/v5/acme"
+	"github.com/vladitot/rr-http-plugin/v5/acme"
 )
 
 type ClientAuthType string

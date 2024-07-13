@@ -19,10 +19,10 @@ import (
 	"tests/testLog"
 
 	"github.com/goccy/go-json"
-	"github.com/roadrunner-server/http/v5/config"
-	"github.com/roadrunner-server/http/v5/handler"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vladitot/rr-http-plugin/v5/config"
+	"github.com/vladitot/rr-http-plugin/v5/handler"
 	"github.com/vladitot/rr-pool/ipc/pipe"
 	"github.com/vladitot/rr-pool/pool"
 	staticPool "github.com/vladitot/rr-pool/pool/static_pool"

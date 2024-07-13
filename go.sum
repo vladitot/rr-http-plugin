@@ -75,14 +75,10 @@ github.com/roadrunner-server/events v1.0.0 h1:r+DM2mVJbcJSxj7AoESvolgUQQYNcEjzKP
 github.com/roadrunner-server/events v1.0.0/go.mod h1:KMcez/tib0yky9TR/0Ag8SZcgAn3kjzXWciZL/n2Hu8=
 github.com/roadrunner-server/goridge/v3 v3.8.2 h1:4TpIJAMylMIVTva/L/STB4ZvYNVoQ77+Syr6abxj95c=
 github.com/roadrunner-server/goridge/v3 v3.8.2/go.mod h1:7IIDW50j1saxnOxktFeUPpkSIfyvM/dYopTrbGWXboA=
-github.com/roadrunner-server/http/v5 v5.0.0 h1:stmca3YEvCMAfSS21qk5Wk0OfkvDHgHVETeN6GhFZPo=
-github.com/roadrunner-server/http/v5 v5.0.0/go.mod h1:gyU7tdID1cosT4gA1uRLnKATqhxPNQCOvShu2eeS8kE=
-github.com/roadrunner-server/pool v1.0.0 h1:9iA67WLrJGRuigbN8qR6Rrs4OMy/TfkG7gSOS8sl0oU=
-github.com/roadrunner-server/pool v1.0.0/go.mod h1:fLWNBj17Bu/YAN61QoInLr3ieRifpg1qN/4LGJqPsKo=
 github.com/roadrunner-server/tcplisten v1.5.0 h1:kwJZAAjPt250fBpnglUJ9mKYlbMeKEXzHwOQ4dk205Q=
 github.com/roadrunner-server/tcplisten v1.5.0/go.mod h1:QSPMB61jFvCcvuRLAMhVIcrJhA6QoJAG+rSkz/vsT04=
-github.com/rogpeppe/go-internal v1.12.0 h1:exVL4IDcn6na9z1rAb56Vxr+CgyK3nn3O+epU5NdKM8=
-github.com/rogpeppe/go-internal v1.12.0/go.mod h1:E+RYuTGaKKdloAfM02xzb0FW3Paa99yedzYV+kq4uf4=
+github.com/rogpeppe/go-internal v1.10.0 h1:TMyTOH3F/DB16zRVcYyreMH6GnZZrwQVAoYjRBZyWFQ=
+github.com/rogpeppe/go-internal v1.10.0/go.mod h1:UQnix2H7Ngw/k4C5ijL5+65zddjncjaFoBhdsK/akog=
 github.com/shirou/gopsutil v3.21.11+incompatible h1:+1+c1VGhc88SSonWP6foOcLhvnKlUeu/erjjvaPEYiI=
 github.com/shirou/gopsutil v3.21.11+incompatible/go.mod h1:5b4v6he4MtMOwMlS0TUMTu2PcXUg8+E1lC7eC3UO/RA=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=

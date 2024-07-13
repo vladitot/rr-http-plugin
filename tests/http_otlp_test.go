@@ -17,11 +17,11 @@ import (
 	"github.com/roadrunner-server/config/v5"
 	"github.com/roadrunner-server/endure/v2"
 	"github.com/roadrunner-server/gzip/v5"
-	httpPlugin "github.com/roadrunner-server/http/v5"
 	"github.com/roadrunner-server/logger/v5"
 	"github.com/roadrunner-server/otel/v5"
 	"github.com/roadrunner-server/server/v5"
 	"github.com/stretchr/testify/assert"
+	httpPlugin "github.com/vladitot/rr-http-plugin/v5"
 	"go.uber.org/zap"
 )
 

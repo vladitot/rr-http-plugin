@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/roadrunner-server/http/v5/servers/fcgi"
-	"github.com/roadrunner-server/http/v5/servers/http3"
-	"github.com/roadrunner-server/http/v5/servers/https"
+	"github.com/vladitot/rr-http-plugin/v5/servers/fcgi"
+	"github.com/vladitot/rr-http-plugin/v5/servers/http3"
+	"github.com/vladitot/rr-http-plugin/v5/servers/https"
 
 	"github.com/roadrunner-server/errors"
 	"github.com/vladitot/rr-pool/pool"

@@ -14,7 +14,6 @@ require (
 	github.com/roadrunner-server/endure/v2 v2.4.5
 	github.com/roadrunner-server/errors v1.4.0
 	github.com/roadrunner-server/goridge/v3 v3.8.2
-	github.com/roadrunner-server/http/v5 v5.0.0
 	github.com/roadrunner-server/tcplisten v1.5.0
 	github.com/stretchr/testify v1.9.0
 	github.com/vladitot/rr-pool v1.0.5
@@ -52,7 +51,6 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/roadrunner-server/events v1.0.0 // indirect
-	github.com/roadrunner-server/pool v1.0.0 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/tklauser/go-sysconf v0.3.14 // indirect
 	github.com/tklauser/numcpus v0.8.0 // indirect

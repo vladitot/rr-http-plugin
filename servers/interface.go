@@ -1,7 +1,7 @@
 package servers
 
 import (
-	"github.com/roadrunner-server/http/v5/common"
+	"github.com/vladitot/rr-http-plugin/v5/common"
 )
 
 // internal interface to start-stop http servers

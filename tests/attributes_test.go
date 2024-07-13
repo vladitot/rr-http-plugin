@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/roadrunner-server/http/v5/attributes"
 	"github.com/stretchr/testify/assert"
+	"github.com/vladitot/rr-http-plugin/v5/attributes"
 )
 
 func TestAllAttributes(t *testing.T) {

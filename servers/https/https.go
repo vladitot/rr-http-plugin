@@ -13,10 +13,10 @@ import (
 
 	"github.com/roadrunner-server/tcplisten"
 
-	"github.com/roadrunner-server/http/v5/acme"
-	"github.com/roadrunner-server/http/v5/common"
-	"github.com/roadrunner-server/http/v5/servers"
-	"github.com/roadrunner-server/http/v5/tlsconf"
+	"github.com/vladitot/rr-http-plugin/v5/acme"
+	"github.com/vladitot/rr-http-plugin/v5/common"
+	"github.com/vladitot/rr-http-plugin/v5/servers"
+	"github.com/vladitot/rr-http-plugin/v5/tlsconf"
 
 	"github.com/mholt/acmez"
 	"github.com/roadrunner-server/errors"

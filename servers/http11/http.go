@@ -8,12 +8,12 @@ import (
 
 	"github.com/roadrunner-server/tcplisten"
 
-	"github.com/roadrunner-server/http/v5/common"
-	"github.com/roadrunner-server/http/v5/servers"
+	"github.com/vladitot/rr-http-plugin/v5/common"
+	"github.com/vladitot/rr-http-plugin/v5/servers"
 
 	"github.com/roadrunner-server/errors"
-	"github.com/roadrunner-server/http/v5/config"
-	"github.com/roadrunner-server/http/v5/middleware"
+	"github.com/vladitot/rr-http-plugin/v5/config"
+	"github.com/vladitot/rr-http-plugin/v5/middleware"
 	"go.uber.org/zap"
 	"golang.org/x/net/http2"
 	"golang.org/x/net/http2/h2c"

@@ -7,13 +7,13 @@ import (
 	"sync"
 
 	"github.com/roadrunner-server/endure/v2/dep"
-	"github.com/roadrunner-server/http/v5/servers"
 	"github.com/vladitot/rr-http-plugin/v5/common"
+	"github.com/vladitot/rr-http-plugin/v5/servers"
 
 	rrcontext "github.com/roadrunner-server/context"
 	"github.com/roadrunner-server/errors"
-	"github.com/roadrunner-server/http/v5/config"
-	"github.com/roadrunner-server/http/v5/handler"
+	"github.com/vladitot/rr-http-plugin/v5/config"
+	"github.com/vladitot/rr-http-plugin/v5/handler"
 	"github.com/vladitot/rr-pool/state/process"
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 	jprop "go.opentelemetry.io/contrib/propagators/jaeger"
