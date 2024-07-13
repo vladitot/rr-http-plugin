@@ -89,8 +89,8 @@ github.com/tklauser/go-sysconf v0.3.14 h1:g5vzr9iPFFz24v2KZXs/pvpvh8/V9Fw6vQK5ZZ
 github.com/tklauser/go-sysconf v0.3.14/go.mod h1:1ym4lWMLUOhuBOPGtRcJm7tEGX4SCYNEEEtghGG/8uY=
 github.com/tklauser/numcpus v0.8.0 h1:Mx4Wwe/FjZLeQsK/6kt2EOepwwSl7SmJrK5bV/dXYgY=
 github.com/tklauser/numcpus v0.8.0/go.mod h1:ZJZlAY+dmR4eut8epnzf0u/VwodKmryxR8txiloSqBE=
-github.com/vladitot/rr-pool v1.0.3 h1:8BlzJa413Dy0jd3cX/22WiWHNLpFYdEJgOTNN5pvR9A=
-github.com/vladitot/rr-pool v1.0.3/go.mod h1:OFnuhbqH51I2HqlIhi6bJtEBikWFRHiuY+qKXFeEX6Y=
+github.com/vladitot/rr-pool v1.0.4 h1:GOE/rKUOcSsRqlN4WH82yHMwx2Qcdpo0Mn+Sn/O7NTk=
+github.com/vladitot/rr-pool v1.0.4/go.mod h1:kp/ms8hCGQ3ayuoBfDAEF847NOOrAQB3InO4PCyVAck=
 github.com/yusufpapurcu/wmi v1.2.4 h1:zFUKzehAFReQwLys1b/iSMl+JQGSCSjtVqQn9bBrPo0=
 github.com/yusufpapurcu/wmi v1.2.4/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
 github.com/zeebo/assert v1.1.0 h1:hU1L1vLTHsnO8x8c9KAR5GmM5QscxHg5RNU5z5qbUWY=
