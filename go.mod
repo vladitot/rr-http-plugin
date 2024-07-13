@@ -1,4 +1,4 @@
-module github.com/vladitot/rr-http-plugin/v1
+module github.com/vladitot/rr-http-plugin/v5
 
 go 1.22.5
 
