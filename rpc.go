@@ -1,7 +1,7 @@
 package http
 
 import (
-	protofiles_v1 "github.com/roadrunner-server/http/v5/proto_objects/protofiles.v1"
+	protofiles_v1 "github.com/vladitot/rr-http-plugin/v5/proto_objects/protofiles.v1"
 	"go.uber.org/zap"
 )
 
