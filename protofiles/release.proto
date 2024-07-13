@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option go_package = "protofiles.v1";
+
+message ReleaseRequestV1 {
+  int64 pid = 1;
+}
+
+message ReleaseResponseV1 {
+  int32 ok = 1;
+}
