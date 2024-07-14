@@ -207,6 +207,10 @@ func (p *Plugin) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	_ = r.Body.Close()
 }
 
+func (p *Plugin) RPC() any {
+	return &rpc{srv: p, log: p.log}
+}
+
 // Workers returns slice with the process states for the workers
 func (p *Plugin) Workers() []*process.State {
 	p.mu.RLock()
