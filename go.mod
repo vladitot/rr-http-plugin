@@ -70,5 +70,4 @@ require (
 
 replace (
 	github.com/roadrunner-server/pool v1.0.0 => github.com/vladitot/rr-pool v1.0.6
-	github.com/roadrunner-server/http/v5 v5.0.0 => github.com/vladitot/rr-http-plugin/v5 v5.0.8
 )
